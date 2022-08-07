@@ -5,6 +5,17 @@ from ovos_utils.log import LOG
 
 class OCPPlaylistExtractor(OCPStreamExtractor):
 
+    @property
+    def supported_seis(self):
+        """
+        skills may return results requesting a specific extractor to be used
+
+        plugins should report a StreamExtractorIds (sei) that identifies it can handle certain kinds of requests
+
+        any streams of the format "{sei}//{uri}" can be handled by this plugin
+        """
+        return ["m3u", "pls"]
+
     def validate_uri(self, uri):
         """ return True if uri can be handled by this extractor, False otherwise"""
         return "pls" in uri or ".m3u" in uri
