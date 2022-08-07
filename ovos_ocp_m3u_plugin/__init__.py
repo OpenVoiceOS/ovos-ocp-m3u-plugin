@@ -4,6 +4,9 @@ from ovos_utils.log import LOG
 
 
 class OCPPlaylistExtractor(OCPStreamExtractor):
+    def __init__(self, ocp_settings=None):
+        super().__init__(ocp_settings)
+        self.settings = self.ocp_settings.get("m3u", {})
 
     @property
     def supported_seis(self):
