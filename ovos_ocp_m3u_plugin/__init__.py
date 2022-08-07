@@ -1,6 +1,5 @@
 import requests
 from ovos_plugin_manager.templates.ocp import OCPStreamExtractor
-from ovos_plugin_manager.utils import classproperty
 
 
 class OCPPlaylistExtractor(OCPStreamExtractor):
@@ -8,7 +7,7 @@ class OCPPlaylistExtractor(OCPStreamExtractor):
         super().__init__(ocp_settings)
         self.settings = self.ocp_settings.get("m3u", {})
 
-    @classproperty
+    @property
     def supported_seis(self):
         """
         skills may return results requesting a specific extractor to be used
@@ -23,7 +22,7 @@ class OCPPlaylistExtractor(OCPStreamExtractor):
         """ return True if uri can be handled by this extractor, False otherwise"""
         return "pls" in uri or ".m3u" in uri
 
-    def extract_stream(self, uri):
+    def extract_stream(self, uri, video=True):
         """ return the real uri that can be played by OCP """
         return self.get_playlist_stream(uri)
 
