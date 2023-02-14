@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/HEAD)
+## [V0.0.1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/V0.0.1) (2023-01-26)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/93b6db3da0466aa55462f81bc43cd0910605ccc6...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/93b6db3da0466aa55462f81bc43cd0910605ccc6...V0.0.1)
 
 **Merged pull requests:**
 
