@@ -1,8 +1,16 @@
 # Changelog
 
-## [Unreleased](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/HEAD)
+## [0.0.2a3](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.2a3) (2024-09-11)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/V0.0.2a1...HEAD)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/V0.0.2a2...0.0.2a3)
+
+**Merged pull requests:**
+
+- feat:semver [\#3](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/3) ([JarbasAl](https://github.com/JarbasAl))
+
+## [V0.0.2a2](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/V0.0.2a2) (2024-01-12)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/V0.0.2a1...V0.0.2a2)
 
 **Merged pull requests:**
 
@@ -11,14 +19,6 @@
 ## [V0.0.2a1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/V0.0.2a1) (2023-02-14)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/V0.0.1...V0.0.2a1)
-
-## [V0.0.1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/V0.0.1) (2023-01-26)
-
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/93b6db3da0466aa55462f81bc43cd0910605ccc6...V0.0.1)
-
-**Merged pull requests:**
-
-- Add Github and Version automation [\#1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/1) ([NeonDaniel](https://github.com/NeonDaniel))
 
 
 
