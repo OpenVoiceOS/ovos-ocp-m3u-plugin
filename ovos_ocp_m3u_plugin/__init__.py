@@ -1,14 +1,14 @@
 import requests
 from ovos_plugin_manager.templates.ocp import OCPStreamExtractor
-
+from ovos_utils import classproperty
 
 class OCPPlaylistExtractor(OCPStreamExtractor):
     def __init__(self, ocp_settings=None):
         super().__init__(ocp_settings)
         self.settings = self.ocp_settings.get("m3u", {})
 
-    @property
-    def supported_seis(self):
+    @classproperty
+    def supported_seis(cls):
         """
         skills may return results requesting a specific extractor to be used
 
