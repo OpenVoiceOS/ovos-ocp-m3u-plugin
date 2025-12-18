@@ -1,12 +1,12 @@
 # Changelog
 
-## [0.0.3a1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.3a1) (2025-06-08)
+## [0.0.4a1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a1) (2025-12-18)
 
-[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.2...0.0.3a1)
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.3...0.0.4a1)
 
 **Merged pull requests:**
 
-- fix: compatibility with ovos-plugin-manager 1.X.X [\#5](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/5) ([JarbasAl](https://github.com/JarbasAl))
+- Configure Renovate [\#7](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/7) ([renovate[bot]](https://github.com/apps/renovate))
 
 
 
