@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4a2](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a2) (2025-12-19)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a1...0.0.4a2)
+
+**Merged pull requests:**
+
+- Update dependency python to 3.14 [\#8](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/8) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.0.4a1](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a1) (2025-12-18)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.3...0.0.4a1)
