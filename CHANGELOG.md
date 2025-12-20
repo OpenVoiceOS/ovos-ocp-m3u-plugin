@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4a3](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a3) (2025-12-20)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a2...0.0.4a3)
+
+**Merged pull requests:**
+
+- Update dependency ovos-plugin-manager to v2 [\#15](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/15) ([renovate[bot]](https://github.com/apps/renovate))
+
 ## [0.0.4a2](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a2) (2025-12-19)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a1...0.0.4a2)
