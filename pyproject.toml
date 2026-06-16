@@ -16,6 +16,11 @@ dependencies = [
     "ovos-plugin-manager>=2.1.0,<3.0.0"
 ]
 
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
+
 [project.urls]
 Homepage = "https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin"
 
@@ -23,7 +28,7 @@ Homepage = "https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin"
 "ovos-ocp-m3u-plugin" = "ovos_ocp_m3u_plugin:OCPPlaylistExtractor"
 
 [project.entry-points."opm.ocp.extractor.config"]
-"ovos-ocp-m3u-plugin.config" = "ovos_ocp_m3u_plugin:OCPPlaylistExtractorConfig"
+"ovos-ocp-m3u-plugin.config" = "ovos_ocp_m3u_plugin.config:OCPPlaylistExtractorConfig"
 
 [tool.setuptools.dynamic]
 version = {attr = "ovos_ocp_m3u_plugin.version.__version__"}
