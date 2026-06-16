@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4a4](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a4) (2026-06-16)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a3...0.0.4a4)
+
+**Merged pull requests:**
+
+- chore: add missing shared CI workflows [\#18](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/18) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.4a3](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a3) (2025-12-20)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a2...0.0.4a3)
