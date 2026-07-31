@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.4a5](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a5) (2026-07-31)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a4...0.0.4a5)
+
+**Merged pull requests:**
+
+- docs: rewrite README in Simplified Technical English [\#20](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/pull/20) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.4a4](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/tree/0.0.4a4) (2026-06-16)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-ocp-m3u-plugin/compare/0.0.4a3...0.0.4a4)
